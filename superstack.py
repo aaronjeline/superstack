@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env uv run
 """
 Substack article extractor - strips away Substack UI to get clean article HTML.
 
